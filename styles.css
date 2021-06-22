@@ -128,7 +128,7 @@ section .projects {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+  grid-template-columns: 300px 300px 300px 300px;
   padding: 40px;
   grid-gap: 30px;
 }
